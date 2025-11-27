@@ -1,0 +1,155 @@
+{
+  "name": "Gray/white theme",
+  "description": "a gray/white theme with Korean actress idk the name :D",
+  "authors": [
+    {
+      "name": "xaxaxaxa",
+      "id": "851936318761467974"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#0d0d0d"],
+    "BACKGROUND_ACCENT": ["#191919"],
+    "BACKGROUND_SECONDARY": ["#0d0d0d"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#191919"],
+
+    "DIVIDER_STRONG": ["#2a2a2a"],
+    "DIVIDER_SUBTLE": ["#252525"],
+    "BORDER_SUBTLE": ["#252525"],
+    "SPINE_DEFAULT": ["#252525"],
+
+    "SPOILER_HIDDEN_BACKGROUND": ["#191919"],
+    "SPOILER_REVEALED_BACKGROUND": ["#151515"],
+    "STAGE_CARD_PILL_BG": ["#111111"],
+
+    "STATUS_DANGER": ["#c54f4f"],
+    "STATUS_DANGER_BACKGROUND": ["#181818"],
+    "STATUS_DANGER_TEXT": ["#e8e8e8"],
+    "STATUS_DND": ["#ff6161"],
+    "STATUS_IDLE": ["#ffbc5b"],
+    "STATUS_OFFLINE": ["#3a3a3a"],
+    "STATUS_ONLINE": ["#48bc46"],
+    "STATUS_POSITIVE": ["#3a3a3a"],
+    "STATUS_POSITIVE_BACKGROUND": ["#181818"],
+    "STATUS_POSITIVE_TEXT": ["#e8e8e8"],
+    "STATUS_SPEAKING": ["#e8e8e8"],
+    "STATUS_WARNING": ["#bfbfbf"],
+    "STATUS_WARNING_BACKGROUND": ["#181818"],
+    "STATUS_WARNING_TEXT": ["#e8e8e8"],
+
+    "TEXT_BRAND": ["#e8e8e8"],
+    "TEXT_DANGER": ["#e8e8e8"],
+    "TEXT_LINK": ["#d0d0d0"],
+    "TEXT_LINK_LOW_SATURATION": ["#b8b8b8"],
+    "TEXT_LOW_CONTRAST": ["#bfbfbf"],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#cfcfcf"],
+    "TEXT_MUTED": ["#9a9a9a"],
+    "TEXT_MUTED_ON_DEFAULT": ["#b5b5b5"],
+    "TEXT_NORMAL": ["#e8e8e8"],
+    "TEXT_POSITIVE": ["#e8e8e8"],
+    "TEXT_PRIMARY": ["#e8e8e8"],
+    "TEXT_SECONDARY": ["#cfcfcf"],
+    "TEXT_WARNING": ["#e8e8e8"],
+
+    "THEME_LOCKED_BLUR_FALLBACK": ["#0d0d0d"],
+    "THREAD_CHANNEL_SPINE": ["#2a2a2a"],
+    "TOAST_BG": ["#111111"],
+    "TYPING_INDICATOR_BG": ["#111111"],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#0d0d0d"],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": ["#000000"],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": ["#000000"],
+
+    "WHITE": ["#e8e8e8"],
+
+    "SCROLLBAR_THIN_THUMB": ["#cfcfcf"],
+    "SCROLLBAR_THIN_TRACK": ["#0d0d0d"],
+    "SCROLLBAR_AUTO_THUMB": ["#cfcfcf"],
+    "SCROLLBAR_AUTO_TRACK": ["#191919"],
+
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#111111"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#111111"],
+    "REDESIGN_INPUT_CONTROL_SELECTED": ["#2f3237"],
+
+    "INTERACTIVE_MUTED": ["#191919"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#111111"],
+
+    "MENTION_BADGE": ["#ff6161"],
+    "REDESIGN_MENTION_BADGE": ["#ff6161"]
+  },
+  "rawColors": {
+    "BLACK_500": "#0d0d0d50",
+
+    "BRAND_260": "#e8e8e8",
+    "BRAND_360": "#e8e8e8",
+    "BRAND_560": "#0d0d0d",
+    "BRAND_500": "#191919",
+
+    "ORANGE_260": "#e8e8e8",
+    "ORANGE_300": "#e8e8e8",
+    "ORANGE_330": "#e8e8e8",
+    "ORANGE_345": "#e8e8e8",
+    "ORANGE_360": "#e8e8e8",
+    "ORANGE_400": "#e8e8e8",
+    "ORANGE_430": ["#e8e8e8"],
+    "ORANGE_460": ["#e8e8e8"],
+    "ORANGE_500": ["#e8e8e8"],
+    "ORANGE_530": ["#e8e8e8"],
+    "ORANGE_560": ["#e8e8e8"],
+    "ORANGE_600": ["#e8e8e8"],
+    "ORANGE_630": ["#e8e8e8"],
+    "ORANGE_660": ["#e8e8e8"],
+    "ORANGE_700": ["#e8e8e8"],
+
+    "YELLOW_260": "#e8e8e8",
+    "YELLOW_300": "#e8e8e8",
+    "YELLOW_330": "#e8e8e8",
+    "YELLOW_345": "#e8e8e8",
+    "YELLOW_360": "#e8e8e8",
+    "YELLOW_400": "#e8e8e8",
+    "YELLOW_430": "#e8e8e8",
+    "YELLOW_460": "#e8e8e8",
+    "YELLOW_500": "#e8e8e8",
+    "YELLOW_530": "#e8e8e8",
+    "YELLOW_560": "#e8e8e8",
+    "YELLOW_600": "#e8e8e8",
+    "YELLOW_630": "#e8e8e8",
+    "YELLOW_660": "#e8e8e8",
+    "YELLOW_700": "#e8e8e8",
+
+    "RED_430": "#d3d3d3",
+
+    "PLUM_14": "#222222",
+    "PRIMARY_800": "#222222",
+
+    "PLUM_1": "#e8e8e8",
+    "PLUM_22": "#0d0d0d",
+
+    "PRIMARY_660": "#0d0d0d",
+    "PRIMARY_700": "#0d0d0d",
+    "PRIMARY_560": "#0d0d0d",
+    "PRIMARY_600": "#0d0d0d",
+    "PRIMARY_630": "#0d0d0d",
+
+    "PLUM_15": "#191919",
+    "PLUM_17": "#0d0d0d",
+    "PLUM_18": "#0d0d0d",
+    "PLUM_19": "#0d0d0d",
+    "PLUM_20": "#0d0d0d",
+    "PLUM_23": "#0d0d0d",
+    "PLUM_24": "#0d0d0d"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/xaxaxaxaprt/theme/refs/heads/main/0533fd0c478c7e5a2b8d010ed7b7f3c0.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2025-10-05",
+  "source": "local"
+}
