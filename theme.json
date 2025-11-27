@@ -90,15 +90,15 @@
     "ORANGE_345": "#e8e8e8",
     "ORANGE_360": "#e8e8e8",
     "ORANGE_400": "#e8e8e8",
-    "ORANGE_430": ["#e8e8e8"],
-    "ORANGE_460": ["#e8e8e8"],
-    "ORANGE_500": ["#e8e8e8"],
-    "ORANGE_530": ["#e8e8e8"],
-    "ORANGE_560": ["#e8e8e8"],
-    "ORANGE_600": ["#e8e8e8"],
-    "ORANGE_630": ["#e8e8e8"],
-    "ORANGE_660": ["#e8e8e8"],
-    "ORANGE_700": ["#e8e8e8"],
+    "ORANGE_430": "#e8e8e8",
+    "ORANGE_460": "#e8e8e8",
+    "ORANGE_500": "#e8e8e8",
+    "ORANGE_530": "#e8e8e8",
+    "ORANGE_560": "#e8e8e8",
+    "ORANGE_600": "#e8e8e8",
+    "ORANGE_630": "#e8e8e8",
+    "ORANGE_660": "#e8e8e8",
+    "ORANGE_700": "#e8e8e8",
 
     "YELLOW_260": "#e8e8e8",
     "YELLOW_300": "#e8e8e8",
@@ -150,6 +150,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2025-10-05",
+  "createdAt": "2025-11-27",
   "source": "local"
 }
