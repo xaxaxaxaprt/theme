@@ -1,6 +1,6 @@
 {
   "name": "Gray/white theme",
-  "description": "a gray/white theme with Korean actress idk the name :D",
+  "description": "a gray/white theme with Korean actress idk the name",
   "authors": [
     {
       "name": "xaxaxaxa",
@@ -12,16 +12,13 @@
     "BACKGROUND_ACCENT": ["#1a1a1a"],
     "BACKGROUND_SECONDARY": ["#0d0d0d"],
     "BACKGROUND_MODIFIER_ACCENT": ["#1a1a1a"],
-
     "DIVIDER_STRONG": ["#1f1f1f"],
     "DIVIDER_SUBTLE": ["#1c1c1c"],
     "BORDER_SUBTLE": ["#1c1c1c"],
     "SPINE_DEFAULT": ["#1c1c1c"],
-
     "SPOILER_HIDDEN_BACKGROUND": ["#1a1a1a"],
     "SPOILER_REVEALED_BACKGROUND": ["#141414"],
     "STAGE_CARD_PILL_BG": ["#111111"],
-
     "STATUS_DANGER": ["#c45f5f"],
     "STATUS_DANGER_BACKGROUND": ["#181818"],
     "STATUS_DANGER_TEXT": ["#e5e5e5"],
@@ -36,11 +33,10 @@
     "STATUS_WARNING": ["#d7d7d7"],
     "STATUS_WARNING_BACKGROUND": ["#181818"],
     "STATUS_WARNING_TEXT": ["#e5e5e5"],
-
     "TEXT_BRAND": ["#e5e5e5"],
     "TEXT_DANGER": ["#e5e5e5"],
-    "TEXT_LINK": ["#b0c8ff"],
-    "TEXT_LINK_LOW_SATURATION": ["#94abff"],
+    "TEXT_LINK": ["#e5e5e5"],
+    "TEXT_LINK_LOW_SATURATION": ["#c7c7c7"],
     "TEXT_LOW_CONTRAST": ["#c7c7c7"],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#d0d0d0"],
     "TEXT_MUTED": ["#8e8e8e"],
@@ -50,7 +46,6 @@
     "TEXT_PRIMARY": ["#e5e5e5"],
     "TEXT_SECONDARY": ["#c7c7c7"],
     "TEXT_WARNING": ["#e5e5e5"],
-
     "THEME_LOCKED_BLUR_FALLBACK": ["#0d0d0d"],
     "THREAD_CHANNEL_SPINE": ["#2a2a2a"],
     "TOAST_BG": ["#111111"],
@@ -58,32 +53,25 @@
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#0d0d0d"],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": ["#0d0d0d"],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": ["#0d0d0d"],
-
     "WHITE": ["#e5e5e5"],
-
     "SCROLLBAR_THIN_THUMB": ["#c7c7c7"],
     "SCROLLBAR_THIN_TRACK": ["#0d0d0d"],
     "SCROLLBAR_AUTO_THUMB": ["#c7c7c7"],
     "SCROLLBAR_AUTO_TRACK": ["#1a1a1a"],
-
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#111111"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#111111"],
     "REDESIGN_INPUT_CONTROL_SELECTED": ["#2c2f33"],
-
     "INTERACTIVE_MUTED": ["#1a1a1a"],
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#111111"],
-
     "MENTION_BADGE": ["#ff6161"],
     "REDESIGN_MENTION_BADGE": ["#ff6161"]
   },
-
   "rawColors": {
     "BLACK_500": "#0d0d0d50",
     "BRAND_260": "#e5e5e5",
     "BRAND_360": "#e5e5e5",
     "BRAND_560": "#0d0d0d",
     "BRAND_500": "#1a1a1a",
-
     "ORANGE_260": "#e5e5e5",
     "ORANGE_300": "#e5e5e5",
     "ORANGE_330": "#e5e5e5",
@@ -99,7 +87,6 @@
     "ORANGE_630": "#e5e5e5",
     "ORANGE_660": "#e5e5e5",
     "ORANGE_700": "#e5e5e5",
-
     "YELLOW_260": "#e5e5e5",
     "YELLOW_300": "#e5e5e5",
     "YELLOW_330": "#e5e5e5",
@@ -115,21 +102,16 @@
     "YELLOW_630": "#e5e5e5",
     "YELLOW_660": "#e5e5e5",
     "YELLOW_700": "#e5e5e5",
-
-    "RED_430": "#b0c8ff",
-
+    "RED_430": "#e5e5e5",
     "PLUM_14": "#262626",
     "PRIMARY_800": "#262626",
-
     "PLUM_1": "#e5e5e5",
     "PLUM_22": "#0d0d0d",
-
     "PRIMARY_660": "#0d0d0d",
     "PRIMARY_700": "#0d0d0d",
     "PRIMARY_560": "#0d0d0d",
     "PRIMARY_600": "#0d0d0d",
     "PRIMARY_630": "#0d0d0d",
-
     "PLUM_15": "#1a1a1a",
     "PLUM_17": "#0d0d0d",
     "PLUM_18": "#0d0d0d",
@@ -138,7 +120,6 @@
     "PLUM_23": "#0d0d0d",
     "PLUM_24": "#0d0d0d"
   },
-
   "background": {
     "url": "https://raw.githubusercontent.com/xaxaxaxaprt/theme/refs/heads/main/0533fd0c478c7e5a2b8d010ed7b7f3c0.jpg",
     "blur": 0.5,
@@ -146,7 +127,6 @@
     "size": "cover",
     "position": "center"
   },
-
   "plus": {
     "version": "0",
     "iconpack": "solar"
