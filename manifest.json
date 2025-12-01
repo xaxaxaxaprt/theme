@@ -1,14 +1,14 @@
 {
-  "name": "test",
-  "description": "idk",
+  "name": "llll",
+  "description": "test. plugin",
   "authors": [
     {
       "name": "lala",
       "id": "851936318761467974"
     }
   ],
-  "main": "index.js",
   "vendetta": {
     "icon": "ic_mic_24px"
-  }
+  },
+  "main": "index.js"
 }
